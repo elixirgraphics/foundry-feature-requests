@@ -1,2 +1,3 @@
-# foundry-feature-requests
-Public feature requests tracker
+# Foundry Feature Requests
+
+Public feature requests tracker for Foundry. 
